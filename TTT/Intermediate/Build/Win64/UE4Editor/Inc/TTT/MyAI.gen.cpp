@@ -91,7 +91,7 @@ void EmptyLinkFunctionForGeneratedCodeMyAI() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMyAI, 447484781);
+	IMPLEMENT_CLASS(UMyAI, 3019051682);
 	template<> TTT_API UClass* StaticClass<UMyAI>()
 	{
 		return UMyAI::StaticClass();

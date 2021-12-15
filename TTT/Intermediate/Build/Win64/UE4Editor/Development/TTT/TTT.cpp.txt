@@ -1,2 +1,2 @@
-D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\Definitions.TTT.h
-D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Source\TTT\TTT.h
+D:\GitHub Files\TicTacToeTwo\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\Definitions.TTT.h
+D:\GitHub Files\TicTacToeTwo\TTT\Source\TTT\TTT.h
